@@ -1,0 +1,61 @@
+{
+  "name": "dreamteam",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@floating-ui/react": "0.26.0",
+    "@headlessui/react": "1.7.14",
+    "@uxf/core": "10.10.1",
+    "@uxf/form": "11.1.0",
+    "@uxf/localize": "11.2.1",
+    "@uxf/router": "10.0.0",
+    "@uxf/styles": "10.10.1",
+    "@uxf/translations": "0.0.3",
+    "@uxf/ui": "11.1.0",
+    "@uxf/wysiwyg": "11.1.1",
+    "@xata.io/cli": "^0.15.4",
+    "@xata.io/client": "^0.28.3",
+    "dayjs": "1.11.10",
+    "next": "14.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "7.47.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.10.5",
+    "@types/react": "18.2.48",
+    "@types/react-dom": "18.2.18",
+    "@uxf/eslint-config": "10.0.0",
+    "@uxf/icons-generator": "11.0.0",
+    "autoprefixer": "10.4.17",
+    "eslint": "8.56.0",
+    "eslint-config-next": "14.1.0",
+    "eslint-plugin-tailwindcss": "3.13.0",
+    "postcss": "8.4.33",
+    "postcss-focus-visible": "9.0.0",
+    "postcss-import": "15.1.0",
+    "postcss-pxtorem": "6.0.0",
+    "postcss-syntax": "0.36.2",
+    "prettier": "3.0.3",
+    "prettier-plugin-css-order": "2.0.1",
+    "prettier-plugin-organize-imports": "3.2.3",
+    "prettier-plugin-tailwindcss": "0.5.7",
+    "stylelint": "15.11.0",
+    "stylelint-config-standard": "34.0.0",
+    "stylelint-config-tailwindcss": "0.0.7",
+    "stylelint-use-nesting": "4.1.0",
+    "tailwindcss": "3.4.1",
+    "typescript": "5.3.3",
+    "webpack": "5.89.0"
+  },
+  "volta": {
+    "node": "20.10.0",
+    "yarn": "1.22.19"
+  }
+}

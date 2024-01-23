@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://skodak21-s-workspace-s22vkr.eu-central-1.xata.sh/db/dreamteam",
+  "codegen": {
+    "output": "src/generated/xata.ts"
+  }
+}

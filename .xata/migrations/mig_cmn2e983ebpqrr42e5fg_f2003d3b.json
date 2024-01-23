@@ -1,0 +1,47 @@
+{
+  "id": "mig_cmn2e983ebpqrr42e5fg",
+  "checksum": "1:f2003d3bb41555b5959a9ecd90988b091e4093a3b569b93118c9a29bad08f9fb",
+  "operations": [
+    {
+      "addTable": {
+        "table": "WSOC2024DreamTeam"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "Name",
+          "type": "string"
+        },
+        "table": "WSOC2024DreamTeam"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "Nationality",
+          "type": "string"
+        },
+        "table": "WSOC2024DreamTeam"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "Price",
+          "type": "int"
+        },
+        "table": "WSOC2024DreamTeam"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "Sex",
+          "type": "string"
+        },
+        "table": "WSOC2024DreamTeam"
+      }
+    }
+  ]
+}

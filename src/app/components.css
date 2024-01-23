@@ -1,0 +1,48 @@
+@import url("@uxf/ui/css/icon.css");
+@import url("@uxf/ui/css/input-basic.css");
+@import url("@uxf/ui/css/loader.css");
+@import url("@uxf/ui/css/paper.css");
+@import url("@uxf/ui/css/typography.css");
+
+/* — */
+@import url("@uxf/ui/css/badge.css");
+@import url("@uxf/ui/css/button.css");
+@import url("@uxf/ui/css/chip.css");
+@import url("@uxf/ui/css/color-radio.css");
+@import url("@uxf/ui/css/color-radio-group.css");
+@import url("@uxf/ui/css/checkbox.css");
+@import url("@uxf/ui/css/checkbox-button.css");
+@import url("@uxf/ui/css/checkbox-input.css");
+@import url("@uxf/ui/css/error-message.css");
+@import url("@uxf/ui/css/label.css");
+@import url("@uxf/ui/css/radio.css");
+@import url("@uxf/ui/css/radio-group.css");
+@import url("@uxf/ui/css/input-with-popover.css");
+@import url("@uxf/ui/css/select-base.css");
+
+/* — */
+@import url("@uxf/ui/css/button-list.css");
+@import url("@uxf/ui/css/button-group.css");
+@import url("@uxf/ui/css/input.css");
+@import url("@uxf/ui/css/file-input.css");
+@import url("@uxf/ui/css/avatar-file-input.css");
+@import url("@uxf/ui/css/avatar.css");
+@import url("@uxf/ui/css/multi-combobox.css");
+@import url("@uxf/ui/css/date-picker.css");
+@import url("@uxf/ui/css/dropdown.css");
+@import url("@uxf/ui/css/dropzone.css");
+@import url("@uxf/ui/css/flash-messages.css");
+@import url("@uxf/ui/css/form-component.css");
+@import url("@uxf/ui/css/layout.css");
+@import url("@uxf/ui/css/list-item.css");
+@import url("@uxf/ui/css/modal.css");
+@import url("@uxf/ui/css/pagination.css");
+@import url("@uxf/ui/css/raster-image.css");
+@import url("@uxf/ui/css/multi-select.css");
+@import url("@uxf/ui/css/tabs.css");
+@import url("@uxf/ui/css/text-link.css");
+@import url("@uxf/ui/css/textarea.css");
+@import url("@uxf/ui/css/time-picker.css");
+@import url("@uxf/ui/css/toggle.css");
+@import url("@uxf/ui/css/tooltip.css");
+@import url("@uxf/ui/css/image-gallery.css");

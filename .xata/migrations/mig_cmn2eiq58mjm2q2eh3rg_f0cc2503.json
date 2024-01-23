@@ -1,0 +1,13 @@
+{
+  "id": "mig_cmn2eiq58mjm2q2eh3rg",
+  "parentID": "mig_cmn2e983ebpqrr42e5fg",
+  "checksum": "1:f0cc25035c6e4e89f7ec8bd2776dd4cbd2b9c90a79ea6a48848f5e4850827bf9",
+  "operations": [
+    {
+      "renameTable": {
+        "newName": "athletes",
+        "oldName": "WSOC2024DreamTeam"
+      }
+    }
+  ]
+}
